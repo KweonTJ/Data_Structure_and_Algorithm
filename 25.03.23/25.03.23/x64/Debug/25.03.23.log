@@ -1,0 +1,16 @@
+﻿  25.03.23.cpp
+C:\Users\user\OneDrive\문서\2025\1학기\자료구조 및 알고리즘\code\25.03.23\25.03.23\25.03.23.cpp(8,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\문서\2025\1학기\자료구조 및 알고리즘\code\25.03.23\25.03.23\25.03.23.cpp(21,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\문서\2025\1학기\자료구조 및 알고리즘\code\25.03.23\25.03.23\25.03.23.cpp(79,25): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\문서\2025\1학기\자료구조 및 알고리즘\code\25.03.23\25.03.23\25.03.23.cpp(112,9): error C2660: 'mergeSort': 함수는 1개의 인수를 사용하지 않습니다.
+      C:\Users\user\OneDrive\문서\2025\1학기\자료구조 및 알고리즘\code\25.03.23\25.03.23\25.03.23.cpp(52,6):
+      'mergeSort' 선언을 참조하십시오.
+      C:\Users\user\OneDrive\문서\2025\1학기\자료구조 및 알고리즘\code\25.03.23\25.03.23\25.03.23.cpp(112,9):
+      인수 목록 '(std::vector<int,std::allocator<int>>)'을(를) 일치시키는 동안
+  
+C:\Users\user\OneDrive\문서\2025\1학기\자료구조 및 알고리즘\code\25.03.23\25.03.23\25.03.23.cpp(117,9): error C2660: 'quickSort': 함수는 1개의 인수를 사용하지 않습니다.
+      C:\Users\user\OneDrive\문서\2025\1학기\자료구조 및 알고리즘\code\25.03.23\25.03.23\25.03.23.cpp(44,6):
+      'quickSort' 선언을 참조하십시오.
+      C:\Users\user\OneDrive\문서\2025\1학기\자료구조 및 알고리즘\code\25.03.23\25.03.23\25.03.23.cpp(117,9):
+      인수 목록 '(std::vector<int,std::allocator<int>>)'을(를) 일치시키는 동안
+  
